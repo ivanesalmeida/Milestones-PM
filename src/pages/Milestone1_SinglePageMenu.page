@@ -1,7 +1,7 @@
 <apex:page >
 
     <apex:pageBlock title="{!$Label.Milestone1_MainMenu}" >
-    
+    Pruebas
         <ul>
         <li><apex:outputLink value="{!URLFOR('apex/Milestones1_GettingStarted')}" >{!$Label.Milestone1_GettingStarted}</apex:outputLink></li>
         <li><apex:outputLink value="{!URLFOR('apex/Milestones1_Summary2')}" >{!$Label.Milestone1_Summary}</apex:outputLink></li>
